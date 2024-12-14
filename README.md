@@ -4,7 +4,7 @@
 
 ## Overview
 
-The android application that we 
+The android application we designed is themed Economic Empowerment: Towards a Sustainable Economy for All, and focuses on digital empowerment and development for local businesses such as SMEs. This app will provide information by utilizing AI technology that is essential for SMEs to stay competitive and thrive in an increasingly digital economy. The app will help SMEs automate tasks, provide financial insights, understand customer sentiment and then generate business recommendations for SMEs.
 
 ## Contributors
 
